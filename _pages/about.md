@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Under Construction"
+title: "Under construction"
+
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +9,6 @@ redirect_from:
   - /about.html
 ---
 
-This is the academic webpage of Christoph Merkle. Currently under construction.
+
+This is my personal homepage, which is currenly under construction!
+
