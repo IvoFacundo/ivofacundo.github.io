@@ -26,7 +26,7 @@
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
       {% if author.employer %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
+        <li><i class="fa fa-fw fa-university" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
@@ -38,7 +38,7 @@
         <li><a href="{{ author.googlescholar }}"><i class="fas fa-graduation-cap"></i> Google Scholar</a></li>
       {% endif %}
       {% if author.ssrn %}
-        <li><a href="{{ author.ssrn }}"><i class="ai ai-ssrn-square ai-fw"></i> SSRN</a></li>
+        <li><a href="{{ author.ssrn }}"><i class="fas fa-file-pdf-o"></i> SSRN</a></li>
       {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-key" aria-hidden="true"></i> Keybase</a></li>
