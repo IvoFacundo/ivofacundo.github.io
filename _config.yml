@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Christoph Merkle"
+  name             : "Prof. Dr. Christoph Merkle"
   avatar           : "KLU_Christoph_Merkle_008small.jpg"
   bio              : "Associate Professor of Finance"
   location         : "Hamburg"
@@ -105,6 +105,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-5141-4639"
   pinterest        :
   soundcloud       :
+  ssrn             : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=743829"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
