@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Christoph Merkle"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Associate Professor of Finance"
   location         : "Hamburg"
-  employer         : "Kuehne Logistics University"
+  employer         : "Kühne Logistics University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=rIhfb_AAAAAJ&hl=de"
   email            : "christoph.merkle@the-klu.org"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Christoph_Merkle"
   uri              :
   bitbucket        :
   codepen          :
