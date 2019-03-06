@@ -11,7 +11,7 @@ that people hold beliefs about their abilities in different domains and tasks wh
 rational information processing. Both on an aggregated and an individual level, they show considerable
 overplacement. We conclude that overconfidence is not only apparent overconfidence but rather the con-
 sequence of a psychological bias.'
-date: 2011
+date: 2011-08-31
 venue: 'Organizational Behavior and Human Decision Processes'
 paperurl: 'https://doi.org/10.1016/j.obhdp.2011.07.004'
 citation: 'Merkle, Christoph and Martin Weber. (2011). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 116(2), 262-271.'
