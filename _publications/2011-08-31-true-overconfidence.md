@@ -1,7 +1,7 @@
 ---
 title: "True Overconfidence: The Inability of Rational Information Processing to Account for Apparent Overconfidence"
 collection: publications
-permalink: /publication/2011-08-31-True Overconfidence
+permalink: /publication/2011-08-31-true-overconfidence
 excerpt: 'The better-than-average effect describes the tendency of people to perceive their skills and virtues as
 being above average. We derive a new experimental paradigm to distinguish between two possible
 explanations for the effect, namely rational information processing and overconfidence. Experiment par-
