@@ -6,6 +6,7 @@ excerpt: 'To understand how real investors use their beliefs and preferences in 
 date: 2014-04-24
 venue: 'Journal of Banking and Finance'
 paperurl: 'https://doi.org/10.1016/j.jbankfin.2014.03.042'
+ssrn: 'http://dx.doi.org/10.2139/ssrn.1786456'
 citation: 'Merkle, Christoph and Martin Weber. (2014). &quot;Do Investors Put Their Money Where Their Mouth Is? Stock Market Expectations and Trading Behavior.&quot; <i>Journal of Banking and Finance</i>. 46, 372–386.'
 ---
 This paper is about the number 2. The number 3 is left for future work.
