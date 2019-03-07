@@ -13,3 +13,5 @@ The better-than-average effect describes the tendency of people to perceive thei
 [Published version](https://doi.org/10.1016/j.obhdp.2011.07.004)
 
 [Free working paper version](https://ssrn.com/abstract=1373675)
+
+Keywords: Overconfidence, Better-than-average effect, Overplacement, Bayesian updating, Belief distribution. 
