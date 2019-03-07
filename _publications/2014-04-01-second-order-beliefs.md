@@ -8,8 +8,10 @@ venue: 'Journal of Economic Behavior and Organization'
 paperurl: 'https://doi.org/10.1016/j.jebo.2014.04.001'
 citation: 'Egan, Daniel, Christoph Merkle, and Martin Weber. (2014). &quot;Second-order Beliefs and the Individual Investor.&quot; <i>Journal of Economic Behavior and Organization</i>. 107B, 652-666.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+In a panel survey of individual investors, we show that investors’ second-order beliefs—their beliefs about the return expectations of other investors—influence investment decisions.Investors who believe others hold more optimistic stock market expectations allocate more of their own portfolio to stocks even after controlling for their own risk and return expectations. However, second-order beliefs are inaccurate and exhibit several well-known psychological biases. We observe both the tendency of investors to believe that their ownopinion is relatively more common among the population (false consensus) and that others who hold divergent beliefs are considered to be biased (bias blind spot).
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Published version](https://doi.org/10.1016/j.jebo.2014.04.001)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[Free working paper version](http://dx.doi.org/10.2139/ssrn.1571238)
+
+Recommended citation: Egan, Daniel, Christoph Merkle, and Martin Weber. (2014). &quot;Second-order Beliefs and the Individual Investor.&quot; <i>Journal of Economic Behavior and Organization</i>. 107B, 652-666.
