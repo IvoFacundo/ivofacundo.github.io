@@ -16,3 +16,5 @@ We study investor happiness in a panel survey of brokerage clients at a UK bank.
 
 JEL codes: D14, G02, G11.
 Keywords: Happiness, Anticipation, Experience, Return expectations, Individual investors.
+
+<p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
