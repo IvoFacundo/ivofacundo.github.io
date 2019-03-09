@@ -9,32 +9,41 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Since 2/2017: Kühne Logistics University, Department of Economics & Management
+  * Associate Professor of Finance
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2/2012 - 01/2017: University of Mannheim, Chair of Finance and Banking
+  * Assistant Professor of Finance
+  * 10/2013-12/2013 Aalto University, School of Business, Helsinki, FI
+  * 01/2015-07/2015 Duke University, Fuqua School of Business, Durham, NC, USA
   
-Skills
+* 09/2010 – 01/2012: University of Mannheim, Chair of Finance and Banking
+  * Research and Teaching Assistant
+
+Education
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2007 - 2011: University of Mannheim
+  * 11/2011 Ph.D. Finance (Dr. rer.pol., summa cum laude)
+  * Committee: Martin Weber (chair), Peter Albrecht, Jürgen Schröder
+  * Graduate School of Economic & Social Sciences
+* 2002 - 2007: University of Cologne
+  * 02/2007 M.A. Economics (Dipl.-Volkswirt)
+  * 02/2005-06/2005 University of Economics Prague, CZ
+  
+Research Interests
+======
+* Behavioral Finance
+  * Overconfidence
+  * Loss Aversion
+  * Expectation Formation
+* Household Finance
+  * Investment Behavior
+  * Borrowing Behavior
+  * Retirement Savings and Timing
+* Digital Finance
+* Experimental Finance
 
 Publications
 ======
