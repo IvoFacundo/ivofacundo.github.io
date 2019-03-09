@@ -18,7 +18,7 @@ Work experience
   * Assistant Professor of Finance
   * 10/2013-12/2013 Aalto University, School of Business, Helsinki, FI
   * 01/2015-07/2015 Duke University, Fuqua School of Business, Durham, NC, USA
-  
+
 * 09/2010 – 01/2012: University of Mannheim, Chair of Finance and Banking
   * Research and Teaching Assistant
 
