@@ -1,5 +1,5 @@
 ---
-title: "Investor happiness"
+title: "Investor Happiness"
 collection: publications
 permalink: /publication/2015-05-29-investor-happiness
 excerpt: ''
