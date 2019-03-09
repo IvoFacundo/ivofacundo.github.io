@@ -2,6 +2,9 @@
 main:
   - title: "Publications"
     url: /publications/
+    
+  - title: "Working Paper"
+    url: /wp/
 
   - title: "Talks"
     url: /talks/    
