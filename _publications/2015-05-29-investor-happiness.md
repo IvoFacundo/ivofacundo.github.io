@@ -15,6 +15,7 @@ We study investor happiness in a panel survey of brokerage clients at a UK bank.
 [Free working paper version](https://dx.doi.org/10.2139/ssrn.1341076)
 
 JEL codes: D14, G02, G11.
+
 Keywords: Happiness, Anticipation, Experience, Return expectations, Individual investors.
 
-<p>Recommended citation: {{ post.citation }}</p>
+Recommended citation: Merkle, Christoph, Daniel Egan and Greg Davies. (2015). &quot;Investor happiness.&quot; <i>Journal of Economic Psychology</i>. 49, 167-186.
