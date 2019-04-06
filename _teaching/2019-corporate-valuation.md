@@ -1,7 +1,7 @@
 ---
 title: "Corporate Valuation"
 collection: teaching
-type: "Lecture"
+type: "Master course"
 permalink: /teaching/2019-corporate-valuation
 venue: "Kuehne Logistics University"
 date: 2019-04-18
