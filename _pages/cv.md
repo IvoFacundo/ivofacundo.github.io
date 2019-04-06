@@ -62,5 +62,6 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+
 <p style="text-decoration:underline;"><a href="https://christophmerkle.github.io/files/CV.pdf">Download full CV</a></p>
