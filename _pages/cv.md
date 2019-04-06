@@ -63,4 +63,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-<p style="text-decoration:underline;"><a href="https://github.com/ChristophMerkle/christophmerkle.github.io/blob/master/files/CV.pdf">Download full CV</a></p>
+<p style="text-decoration:underline;"><a href="https://christophmerkle.github.io/blob/master/files/CV.pdf">Download full CV</a></p>
