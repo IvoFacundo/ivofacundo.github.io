@@ -2,7 +2,7 @@
 title: "Corporate Valuation"
 collection: teaching
 type: "Lecture"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2019-corporate-valuation
 venue: "Kuehne Logistics University"
 date: 2019-04-18
 location: "Hamburg, Germany"
