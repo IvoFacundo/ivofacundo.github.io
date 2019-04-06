@@ -4,7 +4,7 @@ collection: teaching
 type: "Master course"
 permalink: /teaching/2019-corporate-valuation
 venue: "Kuehne Logistics University"
-date: 2019-04-18
+date: 2019-03-18
 location: "Hamburg, Germany"
 ---
 
