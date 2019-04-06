@@ -1,6 +1,6 @@
 ---
 title: ""
-excerpt: "<img src='/images/500x300.png'><br/>Nacht des Wissens 2017 (Night of Science 2017) at KLU"
+excerpt: "<img src='/images/KLU_NACHT_DES_WISSENS_2017_219.jpg'><br/>Nacht des Wissens 2017 (Night of Science 2017) at KLU"
 collection: portfolio
 ---
 
