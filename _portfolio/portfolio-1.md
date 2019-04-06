@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: ""
+excerpt: "<img src='/images/500x300.png'><br/>Nacht des Wissens 2017 (Night of Science 2017) at KLU"
 collection: portfolio
 ---
 
