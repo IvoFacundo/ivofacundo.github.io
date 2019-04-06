@@ -63,4 +63,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Download full CV
+Download full CV (files/CV Merkle 2019_01.pdf)
