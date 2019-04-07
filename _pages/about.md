@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Under construction"
+title: "Welcome to my academic homepage!"
 
 excerpt: "About me"
 author_profile: true
@@ -9,6 +9,11 @@ redirect_from:
   - /about.html
 ---
 
+I am an Associate Professor of Finance at Kühne Logistics University. From 2012 to 2017 I worked as Assistant Professor of Finance and Banking at the University of Mannheim, where I also obtained my PhD. Before, I studied Economics at the University of Cologne. I was a visiting scholar at Duke University, Fuqua School of Business, and Aalto University, Helsinki.
 
-This is my personal homepage, which is currenly under construction!
+My research interests include Behavioral Finance, Household Finance, Experimental Economics, Decision Research, and Digital Finance. Among other topics, I analyze how individual investors convert their beliefs and preferences into actions in financial markets. I have extensively studied phenomena such as investor overconfidence and loss aversion. I further analyze how financial professionals (in particular analysts) process information and form expectations. In newer work, I explore imminent societal challenges such as digitalization and demographic change. For example, I examine financial technology companies (FinTechs) and how their customers accept them.
+
+My current teaching includes courses on Corporate Finance, Corporate Valuation, Consumer Finance, International Finance, and Sustainable Financial Management. Besides KLU, I have taught at ALBA Graduate Business School Athens, University of Mannheim, University of Münster, and University of Cologne. 
+
+
 
