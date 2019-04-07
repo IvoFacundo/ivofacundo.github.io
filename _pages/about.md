@@ -15,5 +15,9 @@ My research interests include Behavioral Finance, Household Finance, Experimenta
 
 My current teaching includes courses on Corporate Finance, Corporate Valuation, Consumer Finance, International Finance, and Sustainable Financial Management. Besides KLU, I have taught at ALBA Graduate Business School Athens, University of Mannheim, University of Münster, and University of Cologne. 
 
+NEWS
+=====
+Our new working paper on "Algorithm Aversion in Financial Investing" is now online! 
+(03.04.2019)
 
 
