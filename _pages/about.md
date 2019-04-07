@@ -16,9 +16,8 @@ My research interests include Behavioral Finance, Household Finance, Experimenta
 My current teaching includes courses on Corporate Finance, Corporate Valuation, Consumer Finance, International Finance, and Sustainable Financial Management. Besides KLU, I have taught at ALBA Graduate Business School Athens, University of Mannheim, University of Münster, and University of Cologne. 
 <br>
 
-NEWS
+News
 =====
-Our new working paper on "Algorithm Aversion in Financial Investing" is now <a href="https://christophmerkle.github.io/wp/2019-04-03-algorithm-aversion">online</a>! 
-(03.04.2019)
+Our new working paper on "Algorithm Aversion in Financial Investing" is now <a href="https://christophmerkle.github.io/wp/2019-04-03-algorithm-aversion">online</a>! <br> (03.04.2019)
 
 
