@@ -18,7 +18,7 @@ My current teaching includes courses on Corporate Finance, Corporate Valuation, 
 
 NEWS
 =====
-Our new working paper on "Algorithm Aversion in Financial Investing" is now <style="text-decoration:underline;"><a href="https://christophmerkle.github.io/wp/2019-04-03-algorithm-aversion">online</a></style>! 
+Our new working paper on "Algorithm Aversion in Financial Investing" is now <a href="https://christophmerkle.github.io/wp/2019-04-03-algorithm-aversion">online</a>! 
 (03.04.2019)
 
 
