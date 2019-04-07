@@ -3,9 +3,6 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "Papers"
-    url: /papers/
-    
   - title: "Working Paper"
     url: /wp/
 
