@@ -1,6 +1,6 @@
 ---
 title: ""
-excerpt: "<img src='/images/EFConferenceParticipants2016_Cut960-1.png'><br/>Experimental Finance Conference 2016 in Mannheim (jointly organized with Alexandra Niessen-Ruenzi)"
+excerpt: "<img src='/images/ef16.jpg'><br/>Experimental Finance Conference 2016 in Mannheim (jointly organized with Alexandra Niessen-Ruenzi)"
 collection: portfolio
 ---
 
