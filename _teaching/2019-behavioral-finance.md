@@ -14,4 +14,4 @@ The course intends to enable students to plan and carry out empirical and experi
 
 Joint with Prof. Dr. Alexander Hillert (Goethe University)
 
-More 
+More information <a href="https://vhbonline.org/veranstaltungen/prodok/kurse-2019/1906fi03">here</a>.
