@@ -1,6 +1,6 @@
 ---
 title: ""
-excerpt: "<img src='/images/Duke.jpg'><br/>At Duke University, Fuqua School of Business, in 2015"
+excerpt: "<img src='/images/duke.JPG'><br/>At Duke University, Fuqua School of Business, in 2015"
 collection: portfolio
 ---
 
