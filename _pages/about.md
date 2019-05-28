@@ -20,4 +20,4 @@ News
 =====
 Our new working paper "Earn More Tomorrow: Overconfident Income Expectations and Consumer Indebtedness" is now <a href="https://christophmerkle.github.io/wp/2019-04-24-consumer-debt">online</a>! (24.04.2019)<br> 
 
-The Canadian Investment Review reports on out paper on algorithm aversion in finance, the link <a href="http://www.investmentreview.com/analysis-research/does-algorithm-aversion-exist-in-financial-decision-making-9505">here</a> (cannot be accessed from Europe) and a pdf <a href="https://christophmerkle.github.io/files/Canadian Investment Review - Does 'algorithm aversion' exist in finacial decision making (28.05.19).pdf">here</a>. (28.05.2019)
+The Canadian Investment Review reports on out paper on algorithm aversion in finance, find the link <a href="http://www.investmentreview.com/analysis-research/does-algorithm-aversion-exist-in-financial-decision-making-9505">here</a> (cannot be accessed from Europe) and a pdf <a href="https://christophmerkle.github.io/files/Canadian Investment Review - Does 'algorithm aversion' exist in finacial decision making (28.05.19).pdf">here</a>. (28.05.2019)
