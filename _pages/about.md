@@ -18,6 +18,8 @@ My current teaching includes courses on Corporate Finance, Corporate Valuation, 
 
 News
 =====
-Our new working paper on "Algorithm Aversion in Financial Investing" is now <a href="https://christophmerkle.github.io/wp/2019-04-03-algorithm-aversion">online</a>! <br> (03.04.2019)
+Our new working paper "Earn More Tomorrow: Overconfident Income Expectations and Consumer Indebtedness" is now <a href="https://christophmerkle.github.io/wp/2019-04-24-consumer-debt">online</a>! <br> (24.04.2019)
+
+The Canadian Investment Review reports on out paper on algorithm aversion in finance (28.05.2019), the <a href="http://www.investmentreview.com/analysis-research/does-algorithm-aversion-exist-in-financial-decision-making-9505">link</a> cannot be accessed from Europe, a pdf <a href="https://christophmerkle.github.io/">here</a>.
 
 
