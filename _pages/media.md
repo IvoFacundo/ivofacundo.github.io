@@ -11,7 +11,6 @@ redirect_from:
 ## Traditional news outlets
 
 My work has been covered by several national and international news outlets:
-_Some of the articles are behing paywalls or are not accessible from specific countries. Have a look at the pdfs instead._
 * The **Canadian Investment Review** picks up our findings on algorithm aversion: [Does 'algorithm aversion' exist in financial decision-making?](http://www.investmentreview.com/analysis-research/does-algorithm-aversion-exist-in-financial-decision-making-9505) <a href="http://www.investmentreview.com/analysis-research/does-algorithm-aversion-exist-in-financial-decision-making-9505">[pdf]</a>
 * The **Frankfurter Allgemeine Zeitung** reports our results on retirement timing: [Warum die Deutschen so früh in Rente gehen](www.faz.net/aktuell/wirtschaft/oecd-kritisiert-flexirente-warum-sie-so-wenig-genutzt-wird-15325792.html) [pdf]
 * The **Wall Street Journal** recommends our test for time consistent preferences: [Before Retiring, Take This Simple Test](www.wsj.com/articles/before-retiring-take-this-simple-test-1477275121) [pdf]
@@ -30,9 +29,9 @@ _Some of the articles are behing paywalls or are not accessible from specific co
   * [Fear itself](www.investorschronicle.co.uk/2014/07/10/comment/chris-dillow/fear-itself-kJXsBgs7QCHcSSxISkOzEP/article.html)
   * [The psychology of overtrading](www.investorschronicle.co.uk/2013/10/17/comment/chris-dillow/the-psychology-of-overtrading-IhEPkSlQULejB5GWOiyMyO/article.html)
   * [When investors know too much](www.investorschronicle.co.uk/2012/02/27/comment/chris-dillow/when-investors-know-too-much-iJcwSBUplbzNBsxYIRbFfO/article.html)
-
-
+  
+_Some of the articles are behing paywalls or are not accessible from specific countries. Have a look at the pdfs instead._
 
 ## Investment blogs
 
-Our findings are regularly discussed in investment blogs:
+Our findings are regularly discussed in investment blogs _(newest posts first)_:
