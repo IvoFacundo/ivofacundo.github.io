@@ -17,7 +17,7 @@ My work has been covered by several national and international news outlets:
 * The **Huffington Post** wonders why investors mistake luck for skill [link] [pdf]
 * The **AAII Journal** features our results on investor happiness [lnk] [pdf]
 * The **Mannheimer Morgen** writes a little portrait about my PhD program [link] [pdf]
-* The **Börsenzeitung** features a guest article by my co-author Alexander Kempf [link] [pdf]
+* The **Börsenzeitung** features a guest article by my co-author Alexander Kempf on our work on emotions [Die rosarote Brille der Anleger](www.boersen-zeitung.de/index.php?li=1&artid=2010056038&artsubm=bz&subm=ausgaben&ersch_datum=2010-03-23) [pdf]
 
 
 ## Investment blogs
