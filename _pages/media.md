@@ -35,3 +35,15 @@ _Some of the articles are behing paywalls or are not accessible from specific co
 ## Investment blogs
 
 Our findings are regularly discussed in investment blogs _(newest posts first)_:
+* Medium.com (in Turkish): [Robo-Danışmanlar ve Yakın Gelecek](https://medium.com/@oneriverblog/robo-dan%C4%B1%C5%9Fmanlar-ve-yak%C4%B1n-gelecek-74fd8bdbb36)
+* Klement on Investing: [Robo-advisors will grow - if they can survive long enough](https://klementoninvesting.substack.com/p/robo-advisors-will-grow-if-they-can)
+* Dirk Söhnholz (in German): [ESG-News, Robo-Infos und mehr](http://prof-soehnholz.com/esg-news-robo-infos-und-mehr/2/)
+* Stumbling and Mumbling: [A behavioural economic case for Brexit](https://stumblingandmumbling.typepad.com/stumbling_and_mumbling/2018/12/a-behavioural-economic-case-for-brexit.html)
+* AES International (video): [What is the next big investment opportunity?](https://www.youtube.com/watch?v=PdeQUgcduPY)
+* IngDiBa Blog (ezonomics): [How to steer a straighter course when investing?](www.ezonomics.com/blogs/how-to-steer-a-straighter-course-when-investing)
+
+
+
+
+_Please be so kind and report any broken links to me._
+
