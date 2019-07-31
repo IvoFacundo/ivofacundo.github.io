@@ -56,9 +56,11 @@ Our findings are regularly discussed in investment blogs _(newest posts first)_:
 * Smash Company: [What exactly is the link between success and narcissistic overconfidence?](http://www.smashcompany.com/business/what-exactly-is-the-link-between-success-and-narcissistic-overconfidence)
 * Stumbling and Mumbling: [Narcissism, hubris and "success"](https://stumblingandmumbling.typepad.com/stumbling_and_mumbling/2014/10/narcissism-hubris-and-success.html)
 * Dan Egan (Betterment): [Do investors know what will make them happy?](https://www.dpegan.com/do-investors-know-what-will-make-them-happy/)
+  * reposted on [Optimal Behavior](http://www.optimalbehavior.org/2013/09/29/do-investors-know-what-will-make-them-happy/)
 * FAZ blog: [AEA Meeting: Inequality, Rating Agencies and Happiness: Interesting papers at the meeting](https://blogs.faz.net/fazit/2013/01/03/aea-meeting-the-most-interesting-studies-863/)
 * Blogi Bossa (in Polish): [Konsekwencje nadmiernego optymizmu](https://blogi.bossa.pl/2012/04/30/konsekwencje-nadmiernego-optymizmu/)
 * Dan Egan (Betterment): [On herding and second-order beliefs](https://www.dpegan.com/on-herding-and-second-order-beliefs/)
+  * reposted on [Optimal Behavior](http://www.optimalbehavior.org/2011/04/17/on-herding-and-second-order-beliefs/)
 * CXO Advisory Group: [Stated Beliefs Versus Trading Behavior](https://www.cxoadvisory.com/sentiment-indicators/stated-beliefs-versus-trading-behavior/)
 
 _Please be so kind and report any broken links to me._
