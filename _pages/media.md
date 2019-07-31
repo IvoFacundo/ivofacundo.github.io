@@ -40,7 +40,7 @@ Our findings are regularly discussed in investment blogs _(newest posts first)_:
 * Dirk Söhnholz (in German): [ESG-News, Robo-Infos und mehr](http://prof-soehnholz.com/esg-news-robo-infos-und-mehr/2/)
 * Stumbling and Mumbling: [A behavioural economic case for Brexit](https://stumblingandmumbling.typepad.com/stumbling_and_mumbling/2018/12/a-behavioural-economic-case-for-brexit.html)
 * AES International (video): [What is the next big investment opportunity?](https://www.youtube.com/watch?v=PdeQUgcduPY)
-* IngDiBa Blog (ezonomics): [How to steer a straighter course when investing?](www.ezonomics.com/blogs/how-to-steer-a-straighter-course-when-investing/)
+* IngDiBa Blog (ezonomics): [How to steer a straighter course when investing?](https://www.ezonomics.com/blogs/how-to-steer-a-straighter-course-when-investing/)
 * IngDiBa Blog (ezonomics): [Rethink investing chances for your golden years](https://www.ezonomics.com/blogs/rethink-investing-chances-for-your-golden-years/)
 
 
