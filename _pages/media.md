@@ -41,7 +41,12 @@ Our findings are regularly discussed in investment blogs _(newest posts first)_:
 * Stumbling and Mumbling: [A behavioural economic case for Brexit](https://stumblingandmumbling.typepad.com/stumbling_and_mumbling/2018/12/a-behavioural-economic-case-for-brexit.html)
 * AES International (video): [What is the next big investment opportunity?](https://www.youtube.com/watch?v=PdeQUgcduPY)
 * IngDiBa Blog (ezonomics): [How to steer a straighter course when investing?](https://www.ezonomics.com/blogs/how-to-steer-a-straighter-course-when-investing/)
+* Stumbling and Mumbling: [The impact bias against Labour](https://stumblingandmumbling.typepad.com/stumbling_and_mumbling/2017/09/the-impact-bias-against-labour.html)
 * IngDiBa Blog (ezonomics): [Rethink investing chances for your golden years](https://www.ezonomics.com/blogs/rethink-investing-chances-for-your-golden-years/)
+* MoneySense: [Set up your portfolio for success in 2016](www.moneysense.ca/columns/set-up-your-investment-portfolio-for-success-in-2016/)
+* The Evidence-Based Invesor (TEBI): [Don’t assume outperformance is down to skill](Don’t assume outperformance is down to skill)
+* Progeny: [Que Sera, Sera – The Role of Chance in Market Returns](https://theprogenygroup.com/blog/chance-in-market-returns/)
+* De Vries Investment Services (in Dutch): [Waarom veel beleggers teleurgesteld zijn in de prestaties van hun beleggingsportefeuille?](https://www.devriesinvestmentservices.nl/Nieuws/waarom-veel-beleggers-teleurgesteld-zijn-in-de-prestaties-van-hun-beleggingsportefeuille)
 
 
 
