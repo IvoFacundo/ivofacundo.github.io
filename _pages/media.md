@@ -47,9 +47,15 @@ Our findings are regularly discussed in investment blogs _(newest posts first)_:
 * The Evidence-Based Invesor (TEBI): [Don’t assume outperformance is down to skill](www.evidenceinvestor.com/video-dont-assume-outperformance-skill/)
 * Progeny: [Que Sera, Sera – The Role of Chance in Market Returns](https://theprogenygroup.com/blog/chance-in-market-returns/)
 * De Vries Investment Services (in Dutch): [Waarom veel beleggers teleurgesteld zijn in de prestaties van hun beleggingsportefeuille?](https://www.devriesinvestmentservices.nl/Nieuws/waarom-veel-beleggers-teleurgesteld-zijn-in-de-prestaties-van-hun-beleggingsportefeuille)
-
-
-
+* Value Walk: [Fooled by Randomness: Investors Don't Properly Evaluate Fund Manager Skill](www.valuewalk.com/2014/11/study-fund-manager-skill-2/)
+* Salon: [This is your brain on money: Why America's rich think differently than the rest of us](www.salon.com/2014/10/11/this_is_your_brain_on_money_why_americas_rich_think_differently_than_the_rest_of_us/)
+  * taken over by [Alternet](https://www.alternet.org/2014/10/your-brain-money/) and [Guerilla World Press](https://guerrillaworldpress.wordpress.com/2014/10/17/why-americas-rich-think-differently-than-the-rest-of-us/)
+* Smash Company: [What exactly is the link between success and narcissistic overconfidence?](http://www.smashcompany.com/business/what-exactly-is-the-link-between-success-and-narcissistic-overconfidence)
+* Stumbling and Mumbling: [Narcissism, hubris and "success"](https://stumblingandmumbling.typepad.com/stumbling_and_mumbling/2014/10/narcissism-hubris-and-success.html)
+* Dan Egan (Betterment): [Do investors know what will make them happy?](https://www.dpegan.com/do-investors-know-what-will-make-them-happy/)
+* FAZ blog: [AEA Meeting: Inequality, Rating Agencies and Happiness: Interesting papers at the meeting](https://blogs.faz.net/fazit/2013/01/03/aea-meeting-the-most-interesting-studies-863/)
+* Dan Egan (Betterment): [On herding and second-order beliefs](https://www.dpegan.com/on-herding-and-second-order-beliefs/)
+* CXO Advisory Group: [Stated Beliefs Versus Trading Behavior](https://www.cxoadvisory.com/sentiment-indicators/stated-beliefs-versus-trading-behavior/)
 
 _Please be so kind and report any broken links to me._
 
