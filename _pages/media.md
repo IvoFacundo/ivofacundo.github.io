@@ -30,7 +30,7 @@ My work has been covered by several national and international news outlets:
   * [The psychology of overtrading](www.investorschronicle.co.uk/2013/10/17/comment/chris-dillow/the-psychology-of-overtrading-IhEPkSlQULejB5GWOiyMyO/article.html)
   * [When investors know too much](www.investorschronicle.co.uk/2012/02/27/comment/chris-dillow/when-investors-know-too-much-iJcwSBUplbzNBsxYIRbFfO/article.html)
   
-_Some of the articles are behing paywalls or are not accessible from specific countries. Have a look at the pdfs instead._
+_Some of the articles are behind paywalls or are not accessible from specific countries. Have a look at the pdfs instead._
 
 ## Investment blogs
 
