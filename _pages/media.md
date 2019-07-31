@@ -20,16 +20,16 @@ My work has been covered by several national and international news outlets:
 * The **Börsenzeitung** features a guest article by my co-author Alexander Kempf on our work on emotions: [Die rosarote Brille der Anleger](http://www.boersen-zeitung.de/index.php?li=1&artid=2010056038&artsubm=bz&subm=ausgaben&ersch_datum=2010-03-23)
 <a href="https://christophmerkle.github.io/files/Börsenzeitung - Die rosarote Brille der Anleger (23.03.2010).pdf">[pdf]</a>
 * The **Investors Chronicle** runs a comment series covering several of my articles: 
-  * [Not seeing risk](http://www.investorschronicle.co.uk/comment/2019/07/25/not-seeing-risk)
-  * [What we have to fear](http://www.investorschronicle.co.uk/comment/2018/12/13/what-we-have-to-fear)
-  * [How (not) to think about risk](http://www.investorschronicle.co.uk/chris-dillow/2018/09/06/how-not-to-think-about-risk)
-  * [The worst losses](http://www.investorschronicle.co.uk/chris-dillow/2017/09/21/the-worst-losses)
-  * [Underestimating risk](http://www.investorschronicle.co.uk/2016/10/13/comment/chris-dillow/underestimating-risk-KBk4ySau67Ff6iEJIPSG7O/article.html)
-  * [The knowledge problem](http://www.investorschronicle.co.uk/2015/07/09/comment/chris-dillow/the-knowledge-problem-GCaA6AzVD09HKNDI4rEctM/article.html)
-  * [Fooled by randomness](http://www.investorschronicle.co.uk/2014/10/09/comment/chris-dillow/fooled-by-randomness-cpfXbbTAbhc9e6RJeKLgeI/article.html)
-  * [Fear itself](www.investorschronicle.co.uk/2014/07/10/comment/chris-dillow/fear-itself-kJXsBgs7QCHcSSxISkOzEP/article.html)
-  * [The psychology of overtrading](http://www.investorschronicle.co.uk/2013/10/17/comment/chris-dillow/the-psychology-of-overtrading-IhEPkSlQULejB5GWOiyMyO/article.html)
-  * [When investors know too much](http://www.investorschronicle.co.uk/2012/02/27/comment/chris-dillow/when-investors-know-too-much-iJcwSBUplbzNBsxYIRbFfO/article.html)
+  * [Not seeing risk](https://www.investorschronicle.co.uk/comment/2019/07/25/not-seeing-risk)
+  * [What we have to fear](https://www.investorschronicle.co.uk/comment/2018/12/13/what-we-have-to-fear)
+  * [How (not) to think about risk](https://www.investorschronicle.co.uk/chris-dillow/2018/09/06/how-not-to-think-about-risk)
+  * [The worst losses](https://www.investorschronicle.co.uk/chris-dillow/2017/09/21/the-worst-losses)
+  * [Underestimating risk](https://www.investorschronicle.co.uk/2016/10/13/comment/chris-dillow/underestimating-risk-KBk4ySau67Ff6iEJIPSG7O/article.html)
+  * [The knowledge problem](https://www.investorschronicle.co.uk/2015/07/09/comment/chris-dillow/the-knowledge-problem-GCaA6AzVD09HKNDI4rEctM/article.html)
+  * [Fooled by randomness](https://www.investorschronicle.co.uk/2014/10/09/comment/chris-dillow/fooled-by-randomness-cpfXbbTAbhc9e6RJeKLgeI/article.html)
+  * [Fear itself](https://www.investorschronicle.co.uk/2014/07/10/comment/chris-dillow/fear-itself-kJXsBgs7QCHcSSxISkOzEP/article.html)
+  * [The psychology of overtrading](https://www.investorschronicle.co.uk/2013/10/17/comment/chris-dillow/the-psychology-of-overtrading-IhEPkSlQULejB5GWOiyMyO/article.html)
+  * [When investors know too much](https://www.investorschronicle.co.uk/2012/02/27/comment/chris-dillow/when-investors-know-too-much-iJcwSBUplbzNBsxYIRbFfO/article.html)
   
 _Some of the articles are behind paywalls or are not accessible from specific countries. Have a look at the pdfs instead._
 
