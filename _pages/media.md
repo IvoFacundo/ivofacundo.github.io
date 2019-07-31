@@ -44,7 +44,7 @@ Our findings are regularly discussed in investment blogs _(newest posts first)_:
 * Stumbling and Mumbling: [The impact bias against Labour](https://stumblingandmumbling.typepad.com/stumbling_and_mumbling/2017/09/the-impact-bias-against-labour.html)
 * IngDiBa Blog (ezonomics): [Rethink investing chances for your golden years](https://www.ezonomics.com/blogs/rethink-investing-chances-for-your-golden-years/)
 * MoneySense: [Set up your portfolio for success in 2016](www.moneysense.ca/columns/set-up-your-investment-portfolio-for-success-in-2016/)
-* The Evidence-Based Invesor (TEBI): [Don’t assume outperformance is down to skill](Don’t assume outperformance is down to skill)
+* The Evidence-Based Invesor (TEBI): [Don’t assume outperformance is down to skill](www.evidenceinvestor.com/video-dont-assume-outperformance-skill/)
 * Progeny: [Que Sera, Sera – The Role of Chance in Market Returns](https://theprogenygroup.com/blog/chance-in-market-returns/)
 * De Vries Investment Services (in Dutch): [Waarom veel beleggers teleurgesteld zijn in de prestaties van hun beleggingsportefeuille?](https://www.devriesinvestmentservices.nl/Nieuws/waarom-veel-beleggers-teleurgesteld-zijn-in-de-prestaties-van-hun-beleggingsportefeuille)
 
