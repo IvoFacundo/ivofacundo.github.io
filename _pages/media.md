@@ -11,7 +11,7 @@ redirect_from:
 ## Traditional news outlets
 
 My work has been covered by several national and international news outlets:
-* The **Canadian Investment Review** picks up our findings on algorithm aversion: [Does 'algorithm aversion' exist in financial decision-making?](http://www.investmentreview.com/analysis-research/does-algorithm-aversion-exist-in-financial-decision-making-9505) [pdf](https://christophmerkle.github.io/files/Canadian Investment Review - Does 'algorithm aversion' exist in finacial decision making (28.05.19).pdf)
+* The **Canadian Investment Review** picks up our findings on algorithm aversion: [Does 'algorithm aversion' exist in financial decision-making?](http://www.investmentreview.com/analysis-research/does-algorithm-aversion-exist-in-financial-decision-making-9505) <a href="http://www.investmentreview.com/analysis-research/does-algorithm-aversion-exist-in-financial-decision-making-9505">[pdf]</a>
 * The **Frankfurter Allgemeine Zeitung** reports our results on retirement timing: [Warum die Deutschen so früh in Rente gehen](www.faz.net/aktuell/wirtschaft/oecd-kritisiert-flexirente-warum-sie-so-wenig-genutzt-wird-15325792.html)[pdf]
 * The **Wall Street Journal** recommends our test for time consistent preferences [link] [pdf]
 * The **Huffington Post** wonders why investors mistake luck for skill [link] [pdf]
