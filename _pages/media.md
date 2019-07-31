@@ -43,6 +43,7 @@ Our findings are regularly discussed in investment blogs _(newest posts first)_:
 * IngDiBa Blog (ezonomics): [How to steer a straighter course when investing?](https://www.ezonomics.com/blogs/how-to-steer-a-straighter-course-when-investing/)
 * Stumbling and Mumbling: [The impact bias against Labour](https://stumblingandmumbling.typepad.com/stumbling_and_mumbling/2017/09/the-impact-bias-against-labour.html)
 * IngDiBa Blog (ezonomics): [Rethink investing chances for your golden years](https://www.ezonomics.com/blogs/rethink-investing-chances-for-your-golden-years/)
+* Stumbling and Mumbling: [The incumbency advantage](https://stumblingandmumbling.typepad.com/stumbling_and_mumbling/2016/03/the-incumbency-advantage.html)
 * MoneySense: [Set up your portfolio for success in 2016](www.moneysense.ca/columns/set-up-your-investment-portfolio-for-success-in-2016/)
 * The Evidence-Based Invesor (TEBI): [Don’t assume outperformance is down to skill](www.evidenceinvestor.com/video-dont-assume-outperformance-skill/)
 * Progeny: [Que Sera, Sera – The Role of Chance in Market Returns](https://theprogenygroup.com/blog/chance-in-market-returns/)
