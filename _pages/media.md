@@ -19,7 +19,6 @@ My work has been covered by several national and international news outlets:
 * The **Mannheimer Morgen** writes a little portrait about me and my PhD program: [Der Luxus der Gedankenfreiheit](www.morgenweb.de/mannheimer-morgen_artikel,-hochschule-der-luxus-der-gedankenfreiheit-_arid,83768.html) [pdf]
 * The **Börsenzeitung** features a guest article by my co-author Alexander Kempf on our work on emotions: [Die rosarote Brille der Anleger](www.boersen-zeitung.de/index.php?li=1&artid=2010056038&artsubm=bz&subm=ausgaben&ersch_datum=2010-03-23) [pdf]
 <a href="https://christophmerkle.github.io/files/B%C3%B6rsenzeitung - Die rosarote Brille der Anleger (23.03.2010).pdf">[pdf]</a>
-https://github.com/ChristophMerkle/christophmerkle.github.io/blob/master/files/B%C3%B6rsenzeitung%20-%20Die%20rosarote%20Brille%20der%20Anleger%20(23.03.2010).pdf
 * The **Investors Chronicle** runs a comment series covering several of my articles: 
   * [Not seeing risk](www.investorschronicle.co.uk/comment/2019/07/25/not-seeing-risk)
   * [What we have to fear](www.investorschronicle.co.uk/comment/2018/12/13/what-we-have-to-fear)
