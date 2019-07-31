@@ -48,7 +48,7 @@ Our findings are regularly discussed in investment blogs _(newest posts first)_:
 * Stumbling and Mumbling: [The incumbency advantage](https://stumblingandmumbling.typepad.com/stumbling_and_mumbling/2016/03/the-incumbency-advantage.html)
 * MoneySense: [Set up your portfolio for success in 2016](http://www.moneysense.ca/columns/set-up-your-investment-portfolio-for-success-in-2016/)
 * The Evidence-Based Invesor (TEBI): [Don’t assume outperformance is down to skill](http://www.evidenceinvestor.com/video-dont-assume-outperformance-skill/)
-  * taken over by [ETFmatic](https://www.youtube.com/watch?v=dy_WGQGGqhQ), [Financial Wealth Builder](https://www.youtube.com/watch?v=6r3Msp4cgXI), [Integrated Wealth Management](https://www.youtube.com/watch?v=HHQxh92TgOU), and [Boutique Advisers Alliance](https://www.youtube.com/watch?v=HHQxh92TgOU)
+  * taken over by [ETFmatic](https://www.youtube.com/watch?v=dy_WGQGGqhQ), [Financial Wealth Builder](https://www.youtube.com/watch?v=6r3Msp4cgXI), and [Boutique Advisers Alliance](https://www.youtube.com/watch?v=HHQxh92TgOU)
 * Progeny: [Que Sera, Sera – The Role of Chance in Market Returns](https://theprogenygroup.com/blog/chance-in-market-returns/)
 * De Vries Investment Services (in Dutch): [Waarom veel beleggers teleurgesteld zijn in de prestaties van hun beleggingsportefeuille?](https://www.devriesinvestmentservices.nl/Nieuws/waarom-veel-beleggers-teleurgesteld-zijn-in-de-prestaties-van-hun-beleggingsportefeuille)
 * Value Walk: [Fooled by Randomness: Investors Don't Properly Evaluate Fund Manager Skill](http://www.valuewalk.com/2014/11/study-fund-manager-skill-2/)
