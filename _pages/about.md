@@ -19,6 +19,7 @@ My current teaching includes courses on Corporate Finance, Corporate Valuation, 
 News
 =====
 
-The DFG has accepted my individual research grant application on "Algorithm Aversion in Financial Decisions", which allows me to intensify my research on the acceptance of financial technology by retail customers! (09.08.2019)<br>
+After almost three years at KLU, I have accepted the offer to join <b>Aarhus University</b>, School of Business and Social Sciences, as an Associate Professor starting in January 2020! (10.11.2019)<br>
 
-Our new working paper "Earn More Tomorrow: Overconfident Income Expectations and Consumer Indebtedness" is now <a href="https://christophmerkle.github.io/wp/2019-04-24-consumer-debt">online</a> and will be presented at the DGF annual meeting! (15.07.2019)<br> 
+The DFG has accepted my individual research grant application on "Algorithm Aversion in Financial Decisions", which allows me to intensify my research on the acceptance of financial technology by retail customers. (09.08.2019)<br>
+ 
