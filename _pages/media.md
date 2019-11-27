@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-## Traditional news outlets
+## Traditional and online news outlets
 
 My work has been covered by several national and international news outlets:
 * **Entrepreneur Europe** reports our results on analysts and CEO extraversion: [3 Ways to Help Introverts Shine in an Extrovert-Leaning Workplace](https://www.entrepreneur.com/article/342450)
