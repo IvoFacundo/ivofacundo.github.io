@@ -11,7 +11,7 @@ redirect_from:
 
 Work experience
 ======
-* Since 01/2020: Aarhus University, School of Business and Social Sciences,\
+* Since 01/2020: Aarhus University, School of Business and Social Sciences,<br/>
   Department of Economics and Business Economics
   * Associate Professor of Finance (with tenure)
 
