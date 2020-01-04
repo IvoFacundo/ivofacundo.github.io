@@ -11,7 +11,11 @@ redirect_from:
 
 Work experience
 ======
-* Since 2/2017: Kühne Logistics University, Department of Economics & Management
+* Since 01/2020: Aarhus University, School of Business and Social Sciences,
+  Department of Economics and Business Economics
+  * Associate Professor of Finance (with tenure)
+
+* 2/2017-12/2019: Kühne Logistics University, Department of Economics & Management
   * Associate Professor of Finance
 
 * 2/2012–01/2017: University of Mannheim, Chair of Finance and Banking
