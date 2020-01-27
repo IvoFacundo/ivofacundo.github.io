@@ -13,6 +13,7 @@ Work experience
 ======
 * Since 01/2020: Aarhus University BSS, Department of Economics and Business Economics
   * Associate Professor of Finance (with tenure)
+* Since 01/2020: Danish Finance Institute, Research Fellow
 
 * 2/2017-12/2019: Kühne Logistics University, Department of Economics & Management
   * Associate Professor of Finance
