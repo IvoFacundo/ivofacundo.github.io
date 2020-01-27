@@ -19,5 +19,5 @@ My current teaching includes courses on Corporate Finance, Corporate Valuation, 
 News
 =====
 
-With the turn of the year I have left KLU and have started my new position at <b>Aarhus University</b>, School of Business and Social Sciences. Next Monday will be my first day in office. (02.01.2020)<br>
+I was just appointed a research fellow at the <b>Danish Finance Institute</b>, an initiative that supports the building of a world-class Danish research environment in finance. (21.01.2020)<br>
  
