@@ -1,26 +1,27 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: 'Publications'
     url: /publications/
-    
-  - title: "Working Paper"
-    url: /wp/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: 'Working Papers'
+    url: /working-papers/
 
-  - title: "Teaching"
-    url: /teaching/  
-    
-  - title: "Media"
-    url: /media/  
-    
-  - title: "Pictures"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
+  - title: 'Blog Posts'
     url: /year-archive/
-    
-  - title: "CV"
+
+  - title: 'Talks'
+    url: /talks/
+
+  - title: 'Teaching'
+    url: /teaching/
+
+  - title: 'Data'
+    url: /data/
+
+  - title: 'Code'
+    url: /code/
+
+  - title: 'CV'
     url: /cv/
+
 
